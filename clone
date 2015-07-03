@@ -1,1 +1,3 @@
-Explain what git clone does, in your own words
+git clone takes an existing repo and clones it, creating a new directory.
+this can be from the same machine or a seperate one.
+remote-tracking branches are set up
