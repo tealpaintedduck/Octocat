@@ -1,1 +1,7 @@
-Explain what a branch is, in your own words
+Branches are parallel versions of your work, within your repo.
+
+Branches are used to keep, for example, new development out of your master branch until it is ready to be merged, or development of different things seperated.
+
+You can create and name them as needed. There will be parent commits from before the branches forked.
+
+Git shows conflicts between them when merging.
